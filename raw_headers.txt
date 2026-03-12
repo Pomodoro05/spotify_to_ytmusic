@@ -1,0 +1,14 @@
+HTTP/2 200 
+content-type: application/json; charset=UTF-8
+vary: Origin
+vary: X-Origin
+vary: Referer
+content-encoding: br
+date: Thu, 12 Mar 2026 19:57:13 GMT
+server: scaffolding on HTTPServer2
+content-length: 4242
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+X-Firefox-Spdy: h2
